@@ -1,0 +1,6 @@
+opencv-python
+mediapipe==1.1.1
+pyautogui
+screen-brightness-control
+pycaw; platform_system == "Windows"
+comtypes; platform_system == "Windows"
