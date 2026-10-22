@@ -1,4 +1,4 @@
-# VisionGesture — Python 3.13 + MediaPipe Tasks
+ # VisionGesture — Python 3.13 + MediaPipe Tasks
 
 This version uses `mediapipe.tasks.python.vision.HandLandmarker`, not the removed
 `mp.solutions.hands` API.
